@@ -1,4 +1,4 @@
-html,
+hhtml,
 body,
 header,
 #intro {
@@ -6,12 +6,13 @@ header,
 }
 
 #intro {
-    background: url("/img/beijin.png")no-repeat center center fixed;
+    background: url('https://images.unsplash.com/photo-1563780352549-ce20afebbe20?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8JUU2JUIxJTg5JUU2JTlDJThEfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60')no-repeat center center fixed;
     -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
     -moz-background-size: cover;    /* 针对Firefox浏览器 */
     -o-background-size: cover;      /* 针对Operallq */
     background-size: cover;         /* 通用 */
 }
+
 .top-nav-collapse {
-    background-color: #24355C;
-  }
+  background-color: #24355C;
+}
